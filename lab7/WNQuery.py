@@ -1,6 +1,13 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8, vim: expandtab:ts=4 -*-
 
+#######################################
+#
+#  SOURCE:
+#  https://github.com/ppke-nlpg/pywnxml
+#
+#######################################
+
 import math
 import sys
 from collections import defaultdict
